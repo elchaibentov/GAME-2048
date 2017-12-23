@@ -3,3 +3,4 @@
 The game's objective is to slide numbered tiles on a grid to combine them to create a tile with the number 2048;
 however, you can keep playing the game,creating tiles with larger numbers
 this version written in JavaScript
+Link to the game -   https://rawgit.com/elchaibentov/GAME-2048/master/2048.html
